@@ -17,6 +17,10 @@ Dependências para compilar projeto:
 Principais referências: 
 
 https://flutter.dev/docs
+
 https://pub.dev/packages/dio
+
 https://www.youtube.com/watch?v=dIzFC4CwNK8&ab_channel=RodrigoRahman
+
 https://www.youtube.com/watch?v=hOsSDTxzrKQ&ab_channel=ProgramadorBR
+
