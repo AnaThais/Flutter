@@ -8,7 +8,7 @@
 ░░░██║░░░███████╗██████╔╝░░░██║░░░███████╗██║░░██║██║░╚███║██║░░██║
 ░░░╚═╝░░░╚══════╝╚═════╝░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝
 
-Aplicativo mobile construído para processo seletivo Especialista I.
+Aplicativo mobile construído para processo seletivo de Especialista I.
 
 Resumo:
 Na tela inicial do aplicativo, o usuário pode escolher entre duas opções: "Characters" e "Starships".
